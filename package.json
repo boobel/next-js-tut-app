@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@heroicons/react": "^2.1.5"
+    "@heroicons/react": "^2.1.5",
+    "@vercel/postgres": "^0.10.0"
   }
 }
